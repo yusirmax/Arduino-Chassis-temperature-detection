@@ -1,6 +1,6 @@
 # Arduino-Chassis-temperature-detection
-Arduino-Chassis-temperature-detection  
-Arduino机箱温度传感器  
+- Arduino-Chassis-temperature-detection  
+- Arduino机箱温度传感器  
 食用方法：  
   1、在Arduino IDE添加esp8266（参考百度）  
   2、下载libraries.zip解压，把解压出来的所有文件解压到 C:\Users\你的用户名\Documents\Arduino\libraries  
