@@ -10,5 +10,5 @@ Arduino机箱温度传感器
   1、下载并注册bliker app  
   2、获得blinker key和你要连接的WiFi名称密码填写到代码相应位置  
   3、编译上传  
-  4、打开项目下的《界面配置》文件，全选复制导入到blinker app里面 
+  4、打开项目下的《界面配置》文件，全选复制导入到blinker app里面  
   ENJOY.
