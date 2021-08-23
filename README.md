@@ -1,6 +1,6 @@
 # Arduino-Chassis-temperature-detection
 Arduino-Chassis-temperature-detection  
-Aeduino机箱温度传感器  
+Arduino机箱温度传感器  
 所需材料：  
   1、esp8266  
   2、0.96寸oled屏幕（SSD1306）  
